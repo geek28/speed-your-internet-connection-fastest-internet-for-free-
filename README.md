@@ -6,5 +6,5 @@ This improves the speed of the internet, speeding up the internet connection. Th
 
  It is compatible with cable, DSL, fiber optic, FIOS, ADSL, WiFi, T1, high-speed internet connections, ISDN, 4G, 5G, 2G, 3G, high-speed LAN, dial-up, satellite, and wireless connections.
 
-Support this project, help me with a donation to continue with the project
+<img width="100" height="70" alt="Image" src="https://github.com/user-attachments/assets/72bb7677-2338-4191-94ce-7cae4427f91b" /> Support this project, help me with a donation to continue with the project
 https://www.paypal.com/donate/?hosted_button_id=RJQ64M29UD7QU
