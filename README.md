@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue) ![Static Badge](https://img.shields.io/badge/repo-blue%3Flogo%3Dgithub)
 
 
-This improves the speed of the internet, speeding up the internet connection. That means pages load fastest, online video games are fastest, file downloads are fastest, video streaming on YouTube and Netflix is ​​fastest, video calls are fastest, the entire internet will go fastest, 
+This improves the speed of the internet, speeding up the internet connection. That means pages load fastest, online video games are fastest, file downloads are fastest, video streaming on YouTube and Netflix is ​​fastest, video calls are fastest, the entire internet will go fastest 
 
 ![Image](https://github.com/user-attachments/assets/f46891fd-9394-4ea1-b9a1-b15019233f65) Restart your computer for the changes to take effect.  
 
