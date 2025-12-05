@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue) ![Static Badge](https://img.shields.io/badge/repo-blue%3Flogo%3Dgithub)
 
 
-This improves the speed of the internet, speeding up the internet connection. That means pages load fastest, online video games are fastest, file downloads are fastest, video streaming on YouTube and Netflix is ​​fastest, video calls are fastest, the entire internet will go fastest, 
+This improves the speed of the internet, speeding up the internet connection. That means pages load fastest, online video games are fastest, file downloads are fastest, video streaming on YouTube and Netflix is ​​fastest, video calls are fastest, the entire internet will go fastest, Restart your computer for the changes to take effect. 
 
  It is compatible with cable, DSL, fiber optic, FIOS, ADSL, WiFi, T1, high-speed internet connections, ISDN, 4G, 5G, 2G, 3G, high-speed LAN, dial-up, satellite, and wireless connections.
 
